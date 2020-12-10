@@ -1,0 +1,4 @@
+verilog work "vertical.v"
+verilog work "horizontal.v"
+verilog work "clkDiv.v"
+verilog work "top.v"

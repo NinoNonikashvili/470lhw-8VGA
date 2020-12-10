@@ -1,0 +1,6 @@
+verilog work "vertical.v"
+verilog work "horizontal.v"
+verilog work "clkDiv.v"
+verilog work "top.v"
+verilog work "VGAtest.v"
+verilog work "C:/Xilinx/14.5/ISE_DS/ISE//verilog/src/glbl.v"

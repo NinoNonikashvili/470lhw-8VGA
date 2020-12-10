@@ -1,0 +1,13 @@
+NET "hsync"   LOC = "J14" ; 
+NET "vsync"   LOC = "K13" ; 
+
+NET "clk" LOC="B8";
+
+NET "red<2>"  LOC = "F13" ; 
+NET "red<1>"  LOC = "D13"  ; 
+NET "red<0>"  LOC = "C14" ; 
+NET "green<2>"  LOC = "G14" ; 
+NET "green<1>"  LOC = "G13" ;
+NET "green<0>"  LOC = "F14" ; 
+NET "blue<1>"  LOC = "J13"  ; 
+NET "blue<0>"  LOC = "H13" ; 
